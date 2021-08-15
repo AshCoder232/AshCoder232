@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshCoder232
 - 👀 I’m interested in Java , CSS, Python ,HTML and so on
-- 🌱 I’m currently learning BTECH in Coleege of Engineering Trivandrum
+- 🌱 I’m currently learning BTECH in College of Engineering Trivandrum
 - 💞️ I’m looking to collaborate on WebDev,Python projects
 - 📫 How to reach me 
 Instagram - https://www.instagram.com/anonymo_147/
